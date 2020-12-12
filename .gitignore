@@ -1,0 +1,9 @@
+.gitignore
+.idea/
+serviceAPIDemo.iml
+allure-results/
+junit4TestDemo.iml
+target/
+*.exe
+cookies.yaml
+
